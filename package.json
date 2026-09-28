@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fieldnode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Field list/node set operations for shell-friendly data wrangling.",
+  "bin": {
+    "fieldnode": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fieldnode.git"
+  },
+  "homepage": "https://theworker02.github.io/fieldnode/",
+  "keywords": [
+    "field",
+    "node",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
